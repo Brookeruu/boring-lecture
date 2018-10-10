@@ -1,0 +1,16 @@
+h2.intro {
+  color: gray;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+p.intro {
+  color: lightgray;
+  font-weight: lighter;
+  }
+
+img.intro {
+  width: 300px;
+  float: left;
+  padding: 10px;
+}
