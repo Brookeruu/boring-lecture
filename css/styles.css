@@ -3,6 +3,12 @@ body {
   color: white;
 }
 
+.intro {
+  color: gray;
+  font-style: oblique;
+  font-weight: bold;
+}
+
 h2.intro {
   color: gray;
   font-style: oblique;
@@ -14,7 +20,7 @@ p.intro {
   font-weight: lighter;
   }
 
-img.intro {
+#img-intro {
   width: 300px;
   float: left;
   padding: 10px;
